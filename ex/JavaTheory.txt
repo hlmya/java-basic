@@ -1,0 +1,26 @@
+1. what's package manage?
+
+2. Instance variable is stored in?
+stack or heap?
+
+-> static variable is stored?
+
+3. what is alasing?
+
+4. which has life-time longer?
+int a = 10; and 
+Point p = point a;
+
+5. what is stack frame?
+
+6. What is not true?
+Object -> entry
+class-> type
+inheritance ->subtyping
+invariant -> reference?
+
+7. how garbage collection move garbage object? (mark-and-sweep)
+
+8. class P {public String toString(String Object)} error or not?
+
+9. 

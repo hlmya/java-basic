@@ -1,0 +1,37 @@
+#Lecture
+
+**** 1. Lesson: Object-Oriented Programming Concepts
+
+ https://docs.oracle.com/javase/tutorial/java/concepts/
+ Question: https://docs.oracle.com/javase/tutorial/java/concepts/QandE/questions.html
+
++ Class:
+1) https://www.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html
+2) https://docs.oracle.com/javase/tutorial/java/concepts/class.html
+
++ Inheritance:
+1) Definition: https://docs.oracle.com/javase/tutorial/java/concepts/inheritance.html
+2) Coding: https://docs.oracle.com/javase/tutorial/java/IandI/subclasses.html
+
+
+**** 2. ArrayList: -> review it later
+
+(1) List<?> myList = new ArrayList<?>(); 
+=> Prefer to use;
+=> List is interface and ArrayList is 
+
+(2) ArrayList<?> myList = new ArrayList<?>();
+
+https://i.stack.imgur.com/XhKOu.jpg
+http://www.java67.com/2013/01/difference-between-set-list-and-map-in-java.html
+
+**** 3. Algorithm:
+1) Sort: by name (alphabet)
+2) Sort: by age
+3) Check Person exist or not
+
+
+******** QUESTION
+1. In classroom in class 6 or TravelTwoCity in class 7:
+TravelTwoCity chỉ cần dùng private City CityOne là call đc method trong City mà k cần extend hay import, why? (same for Classroom)
+
