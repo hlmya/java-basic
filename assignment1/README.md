@@ -64,5 +64,3 @@ The class Gift has no strict implementation rules, but, you should follow the co
   The following but not restricted to:
   * Use Java.text.SimpleDateFormat for the dates formatting and parsing (if necessary)
   * You can use the Java.util.ArrayList for storing the objects
- 
-Copy link: https://github.com/BasicJavaElte/Java2017-1-Assignment-1
