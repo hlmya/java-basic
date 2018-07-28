@@ -92,4 +92,3 @@ There is no need to follow it here, but here we will have some recommendations t
 
 ![No IDE](https://i.imgur.com/30o1Lqc.jpg)
 
-Copy link: https://github.com/BasicJavaElte/Assignment2-2017/blob/master/README.md
