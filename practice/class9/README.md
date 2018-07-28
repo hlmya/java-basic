@@ -29,3 +29,5 @@ Go go go =D
 
 ## New Challenge 8)
 Hope you are doing it... if not it is still available on the link: https://www.hackerrank.com/second-challenge
+
+Copy link: https://github.com/BasicJavaElte/Practices2017/blob/master/Class%209/README.md
